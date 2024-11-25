@@ -14,7 +14,7 @@ A powerful command-line tool for efficient code management and bundling.
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/yourusername/codebundler-cli.git](https://github.com/yourusername/codebundler-cli.git)
+    git clone [https://github.com/yourusername/CLI-CodeBundler.git]
     cd codebundler-cli
     ```
 2.  **Build the project:**
